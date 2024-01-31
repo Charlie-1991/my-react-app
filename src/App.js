@@ -2,9 +2,15 @@ import React from 'react';
 import './App.css';
 import Card from './Card';
 
+
+
+
 function App() {
   return (
     <div >
+    
+   
+
 
      <h1>My Contacts</h1>
 
